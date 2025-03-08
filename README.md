@@ -66,8 +66,9 @@ or
 ```
 yarn start
 ```
+## Demo - I have deployed this application in vercel
 
-The application will be available at http://localhost:3000
+The application will be available at https://backlink-tracker-gamma.vercel.app/
 
 ## Assignment Context
 
